@@ -1,0 +1,2 @@
+ipynkernel
+pytube
